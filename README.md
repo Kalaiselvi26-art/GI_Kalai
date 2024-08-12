@@ -1,2 +1,2 @@
-# Guvi
-Guvi notes
+# GI
+GI notes
